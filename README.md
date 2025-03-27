@@ -1,1 +1,3 @@
-# artful-accessories
+# Welcome to your art project
+
+## Project info
